@@ -1,2 +1,2 @@
 # al3sec.github.io
-my own blog
+Mi propio blog para contar aventuras. 
